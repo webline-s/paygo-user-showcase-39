@@ -4,11 +4,11 @@ import { ArrowLeft } from 'lucide-react';
 
 const JoinCommunities = ({ onBack }: { onBack: () => void }) => {
   const handleJoinWhatsApp = () => {
-    window.open('WhatsApp. https://wa.me/message/CKFDSQZYCBOZH1', '_blank');
+    window.open('https://whatsapp.com/channel/0029VbB57so2kNFsmdLJuJ26', '_blank');
   };
 
   const handleJoinTelegram = () => {
-    window.open('https://t.me/Paygo12', '_blank');
+    window.open('https://t.me/+pRq0jmwCTAAyNTk0', '_blank');
   };
 
   return (
